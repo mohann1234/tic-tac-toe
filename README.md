@@ -1,7 +1,7 @@
-### Tic Tac Toe mohankrishna
+### Tic Tac Toe mohankrishna_123
 
 ---
-⚠️ DO NOT SUBMIT PRS WITH SOLUTIONS TO THIS REPO bich ⚠️
+⚠️ DO NOT SUBMIT PRS WITH SOLUTIONS TO THIS REPO routhu ⚠️
 
 ### Description
 
