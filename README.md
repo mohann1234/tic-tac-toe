@@ -1,4 +1,4 @@
-### Tic Tac Toe mohanranga
+### Tic Tac Toe mohankrishna
 
 ---
 ⚠️ DO NOT SUBMIT PRS WITH SOLUTIONS TO THIS REPO bich ⚠️
